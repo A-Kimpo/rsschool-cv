@@ -22,3 +22,18 @@ Completed training as a front-end developer at the Hexlet school. During the stu
 * Phone +7 (900) 099 66 80
 * Mail ak.kimpo@gmail.com
 * Telegram https://t.me/AlexKond
+
+## Languages
+* Russian - native
+* English - read professional literature
+## Hard skills
+* JavaScript
+* Node.js
+* HTML5, CSS3, Sass
+* React + Redux Toolkit
+* Bootstrap
+* Jest
+* Webpack/Vite
+* Git
+* CI (Github Actions)
+* Figma/Photoshop
